@@ -1,5 +1,7 @@
 # Real-Time-Data-Analysis-Using-Kafka-End-To-End-Data-Engineering-Project
 
+![Kafka](https://github.com/user-attachments/assets/d2fb90ff-3dc0-4d16-b5d6-a859a3eb2269)
+
 🔍 Project Overview:
 - Data Source: Stock Market App Simulation generating real-time data.
 - Producer: Python SDK to simulate data production.
@@ -12,3 +14,4 @@
 -Kafkaproducer.ipynb - has the producer code for kafka which streams data onto the Kafka broker onto the EC2 instance
 -Kafkaconsumer.ipynb - has the consumer code which receives data from the kafka broker running on EC2 instance
 The csv used for this project is indexprocessed.csv, which has example data of stock market
+
